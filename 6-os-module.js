@@ -1,4 +1,4 @@
-//BUILT-IN Module os
+//BUILT-IN Module-os
 const os = require('os')
 
 //Info about current user
@@ -7,7 +7,7 @@ const user = os.userInfo()
 console.log(user)
 
 //method returns the sys. uptime
-console.log(`The sys. uptime is ${os.uptime()}seconds) `)
+console.log(`The system uptime is ${os.uptime()}seconds) `)
 
 
 //An object whose properties are connected to methods.

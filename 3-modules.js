@@ -1,7 +1,7 @@
 //Global variables in node.
-// __dirname - path to curr. dir.
-// __filename - file name
-// require - function to use modules(CommonJS)
+//__dirname - path to curr. dir.
+//__filename - file name
+//require - function to use modules(CommonJS)
 //module - info about current module (file)
 //process - inf. ab. env. where the program is being exeec.
 
