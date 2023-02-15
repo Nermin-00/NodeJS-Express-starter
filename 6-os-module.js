@@ -6,7 +6,7 @@ const os = require('os')
 const user = os.userInfo()
 console.log(user)
 
-//method returns the system uptime
+//method returns the sys. uptime
 console.log(`The sys. uptime is ${os.uptime()}seconds) `)
 
 
